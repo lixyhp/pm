@@ -6,6 +6,15 @@ Design
 
 Development
 
-Test
+  guideline
 
+Test
+  
+  phpunit
+  selenium
+  jmeter
+  sonar
+  
 Deployment
+
+  Jenkins
